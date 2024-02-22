@@ -1,0 +1,41 @@
+.con1{
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+}
+
+.pagi{
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+}
+
+.btn{
+    margin-left: 88px;
+}
+
+.none a{
+    text-decoration: none;
+    color: rgb(15, 2, 2)
+}
+
+.divc{
+    padding-top: 20px;
+}
+
+.btt{
+    background-color: rgb(31, 26, 26);
+    
+}
+
+.cla a{
+    text-decoration: none;
+    color: black
+}
+
+.con4 a{
+    text-decoration: none;
+    color: rgb(237, 237, 237);
+    display: flex;
+    justify-content: center;
+}
